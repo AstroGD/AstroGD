@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi! I'm Lukas 👋
+I'm a german self-taught software developer creating open source software since 2018.
 
-<!--
-**AstroGD/AstroGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some facts about me
+- I currently study computer science in Darmstadt
+- Designing websites since 2012
+- Coding in projects since 2015
+- Experience in NodeJS, JavaScript, VueJS and Electron
 
-Here are some ideas to get you started:
+### I'm coding in JavaScript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My active (public) projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=astrogd&repo=haveibeenpwnedchecker)](https://github.com/astrogd/haveibeenpwnedchecker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=astrogd&repo=ticketsystem)](https://github.com/astrogd/ticketsystem)
+
+## Reach out and Follow me
+Contact me via [Mail](mailto:hello@astrogd.eu) | [Contact form](https://www.astrogd.eu/en/kontakt) | [Discord](https://www.discord.gg/0nWbSKRpS4GtPUpa) | [Keybase](https://www.keybase.io/astrogd)
+<br>Or follow me on [Twitter](https://www.twitter.com/astrogd) | [Instagram](https://www.instagram.com/astrogd.eu)
+
+## Support me
+<a href="https://www.buymeacoffee.com/astrogd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee"></a>
