@@ -3,7 +3,7 @@ I'm a german self-taught software developer creating open source software since 
 
 ### Some facts about me
 - Studying computer science in Darmstadt
-- Designing websites since 2012
+- Designing websites since 2013
 - Coding in projects since 2015
 - Experience in NodeJS, JavaScript, VueJS and Electron
 
