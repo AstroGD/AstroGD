@@ -16,4 +16,4 @@ I'm a german self-taught software developer creating open source software since 
 
 ## Reach out and Follow me
 Contact me via [Mail](mailto:hello@astrogd.eu) | [Contact form](https://www.astrogd.eu/en/kontakt) | [Discord](https://www.discord.gg/0nWbSKRpS4GtPUpa) | [Keybase](https://www.keybase.io/astrogd)
-<br>Or follow me on [Twitter](https://www.twitter.com/astrogd) | [Instagram](https://www.instagram.com/astrogd.eu)
+<br>Or follow me on [Twitter](https://www.twitter.com/astrogd) | [Instagram](https://www.instagram.com/astrogd)
